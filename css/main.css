@@ -39,7 +39,7 @@ footer {
 }
 
 fieldset {
-  border: 2px solid #70ad55;
+  border-color: #70ad55;
   border-right: 0;
   border-left: 0;
   border-bottom: 0;
