@@ -38,11 +38,8 @@ footer {
   color: #fff;
 }
 
-fieldset {
+hr {
   border-color: #70ad55;
-  border-right: 0;
-  border-left: 0;
-  border-bottom: 0;
 }
 
 @media only screen and (min-width: 36em) {
@@ -55,4 +52,8 @@ fieldset {
     padding-left: .5em;
   }
 
+}
+
+fieldset {
+  border: none;
 }
